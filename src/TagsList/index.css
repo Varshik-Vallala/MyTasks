@@ -1,0 +1,15 @@
+.each-tag {
+  border: 1px solid #f3aa4e;
+  background-color: transparent;
+  padding: 8px;
+  color: #fff;
+  min-width: 80px;
+  max-width: 110px;
+  border-radius: 20px;
+  outline: none;
+  cursor: pointer;
+}
+
+.active-tag {
+  background-color: #f3aa4e;
+}

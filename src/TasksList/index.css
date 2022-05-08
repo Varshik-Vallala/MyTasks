@@ -1,0 +1,18 @@
+.each-task {
+  background-color: #131213;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 28px;
+  margin: 12px 0;
+}
+.task-tag {
+  background-color: #f3aa4e;
+  padding: 8px;
+  color: #1a171d;
+  min-width: 80px;
+  max-width: 120px;
+  border-radius: 20px;
+  text-align: center;
+  font-weight: 600;
+}
